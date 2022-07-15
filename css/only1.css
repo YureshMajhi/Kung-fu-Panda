@@ -17,8 +17,8 @@ body{
     object-fit: cover;
     border-radius: 50%;
     border: 8px solid #dcaf6d;
-    height: 400px;
-    width: 400px;
+    height: 50vh;
+    width: 27vw;
     object-fit: cover;
 }
 h1{
